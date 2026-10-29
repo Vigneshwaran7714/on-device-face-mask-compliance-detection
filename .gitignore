@@ -1,0 +1,8 @@
+venv/
+venv312/
+.venv/
+Dataset/
+dataset/
+__pycache__/
+*.py[cod]
+.env
